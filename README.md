@@ -10,7 +10,7 @@ _Website for fictional Island Resort with multiple pages. Made to practice apply
 
 ## Setup/Installation Requirements
 
-* _Open file in any web browser_
+* _Open file in any web browser_ [Click here](https://weitzwoman.github.io/islandresort) _to view website._
 
 ## Support and contact details
 
