@@ -1,3 +1,44 @@
+body {
+  background-color: CFF6ED;
+  font-family: sans-serif;
+  text-align: center;
+}
 h1 {
-  color: red;
+  color: 3374FF;
+  text-align: center;
+  font-weight: bolder;
+}
+h2 {
+  font-style: bold;
+  text-align: center;
+  font-family: fantasy;
+}
+h3 {
+  font-style: italic;
+  text-align: center;
+  font-family: fantasy;
+}
+h4{
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: left;
+  font-size: 25px;
+}
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
+li {
+  font-size: 20px;
+  line-height: 30px;
+}
+a:-webkit-any-link {
+    color: B833FF;
+    text-decoration: underline;
+    cursor: auto;
 }
